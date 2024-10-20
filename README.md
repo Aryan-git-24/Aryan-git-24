@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aryan-git-24
+- 👋 Hi, I’m Aryan Shukla
 - 👀 I’m interested in HTML AND C++
 - 🌱 I’m currently learning CSS AND JAVASCRIPT
 - 😄 Pronouns: HE/HIM/HIS
